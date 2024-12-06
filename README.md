@@ -15,4 +15,5 @@ Trains an (type of AI) to recognize based on text content and semantics who is m
 ## Running
 
 
-## Other
+## APIS
+	pip install pydot graphviz
