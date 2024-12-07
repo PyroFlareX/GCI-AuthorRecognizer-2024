@@ -112,4 +112,4 @@ if __name__ == "__main__":
     model.save('author_match_model.h5')
     print("Model saved as 'author_match_model.h5'")
     
-	visualize_model(model, file_path='author_match_model.png')
+    visualize_model(model, file_path='author_match_model.png')
